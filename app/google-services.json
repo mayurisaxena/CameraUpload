@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "820858184705",
+    "firebase_url": "https://camerasearch-16306.firebaseio.com",
+    "project_id": "camerasearch-16306",
+    "storage_bucket": "camerasearch-16306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820858184705:android:99cbec5cef105503",
+        "android_client_info": {
+          "package_name": "ci6222.cameraupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820858184705-u00brnegnrgu1pp4a4o403g0lqpuc1mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ci6222.cameraupload",
+            "certificate_hash": "35556110497F8BB6774469F7A97864EE2A0FF401"
+          }
+        },
+        {
+          "client_id": "820858184705-jn8ngb1i6f8ghg918fbbf4htacej0ob7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzYAQ8FGNDsCpYGi9Ow0xnEYOwVbhczVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820858184705-jn8ngb1i6f8ghg918fbbf4htacej0ob7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
